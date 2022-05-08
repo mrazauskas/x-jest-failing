@@ -1,0 +1,9 @@
+{
+  "name": "x-jest-failing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
